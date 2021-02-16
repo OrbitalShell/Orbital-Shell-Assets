@@ -1,1 +1,3 @@
 # Orbital-Shell-Assets
+
+Orbital shell project assets. Dedicated to the team, store here any document that must be linked to issues/discussions/comments/...
